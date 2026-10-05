@@ -24,3 +24,4 @@ javac src/*.java
 cd src
 java ConsoleApp      # console version
 java MarksManagerGUI # GUI version
+```
