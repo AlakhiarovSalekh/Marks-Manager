@@ -1,27 +1,67 @@
-# Marks Manager System
+# Marks Manager
 
-A Java-based Marks Management System with both Console and GUI (Swing) interfaces.
+[![Java](https://img.shields.io/badge/Java-Console%20%2B%20Swing-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![License](https://img.shields.io/github/license/AlakhiarovSalekh/Marks-Manager)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/AlakhiarovSalekh/Marks-Manager?style=social)](https://github.com/AlakhiarovSalekh/Marks-Manager/stargazers)
+
+A Java student-marks management system with both console and Swing interfaces, CSV persistence, grade calculations, search, and class-level statistics.
 
 ## Features
 
-- Add, view, search, and delete student records
-- Store marks for 3 subjects per student
-- Automatic calculation of total, percentage, grade, and pass/fail
-- Class average percentage
-- Save and load records from a CSV file
-- Console interface and Swing GUI interface
+- Add student records
+- View and search students
+- Delete student records
+- Store marks for three subjects
+- Calculate total marks
+- Calculate percentage
+- Calculate grade and pass/fail result
+- Calculate class average percentage
+- Save and load records using CSV
+- Console interface
+- Swing GUI
 
-## Technologies Used
+## Project Files
 
-- Java (Core)
-- Java Swing (GUI)
-- File I/O (CSV-based storage)
+```text
+ConsoleApp.java
+MarksManagerGUI.java
+MarksStorage.java
+Student.java
+StudentManager.java
+statement.md
+```
 
-## How to Run
+## Tech Stack
+
+- Java
+- Java Swing
+- File I/O
+- CSV-based persistence
+
+## Build & Run
+
+The Java source files are stored in the repository root:
 
 ```bash
-javac src/*.java
-cd src
-java ConsoleApp      # console version
-java MarksManagerGUI # GUI version
+git clone https://github.com/AlakhiarovSalekh/Marks-Manager.git
+cd Marks-Manager
+javac *.java
+
+# Console version
+java ConsoleApp
+
+# GUI version
+java MarksManagerGUI
 ```
+
+## Contributing
+
+Tests, validation improvements, UI polish, documentation fixes, and maintainability improvements are welcome.
+
+## Author
+
+**Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
+
+## License
+
+See [LICENSE](LICENSE).
