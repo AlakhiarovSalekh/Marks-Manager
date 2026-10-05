@@ -58,6 +58,8 @@ java MarksManagerGUI
 
 Tests, validation improvements, UI polish, documentation fixes, and maintainability improvements are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [University Room Booking Application](https://github.com/AlakhiarovSalekh/University-Room-Booking-Application) — Java Swing/MVC booking system with JUnit.
