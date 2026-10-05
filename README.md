@@ -58,6 +58,12 @@ java MarksManagerGUI
 
 Tests, validation improvements, UI polish, documentation fixes, and maintainability improvements are welcome.
 
+## More Projects by Salekh
+
+- [University Room Booking Application](https://github.com/AlakhiarovSalekh/University-Room-Booking-Application) — Java Swing/MVC booking system with JUnit.
+- [Parking Lot System](https://github.com/AlakhiarovSalekh/Parking-Lot-System) — Java OOP system design.
+- [Food Ordering App](https://github.com/AlakhiarovSalekh/Food-Ordering-App) — Java Swing client-server application.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
