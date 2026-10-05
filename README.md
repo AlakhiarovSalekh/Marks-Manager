@@ -1,4 +1,4 @@
-# Marks Manager
+# Java Marks Manager — Console, Swing & CSV
 
 [![Java](https://img.shields.io/badge/Java-Console%20%2B%20Swing-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
 [![License](https://img.shields.io/github/license/AlakhiarovSalekh/Marks-Manager)](LICENSE)
